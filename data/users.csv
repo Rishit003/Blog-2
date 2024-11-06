@@ -1,0 +1,11 @@
+_id,user_id,username,email,password,bio,profile_picture
+67292e071641189d40011582,1,pushpanjali,pushpanjaliv65@gamil.com,pass1234,Backend Developer,/images/pushpanjali.jpg
+67292e071641189d40011583,2,Rishabh123,rishabh@gmail.com,pass5678,App Developer,/images/rishabh.jpg
+67292e071641189d40011584,3,Rishit,rishitinc@gmail.com,passabcd,Machine Learning,/images/rishit.jpg
+67292e071641189d40011585,4,bot1,bot1@gmail.com,passefgh,Tech enthusiast and gamer.,/images/bot1.jpg
+67292e071641189d40011586,5,bot2,bot2@gmail.com,passijkl,Foodie and travel lover.,/images/bot2.jpg
+67292e071641189d40011587,6,bot3,bot3@gmail.com,passmnop,Fitness fanatic and coach.,/images/bot3.jpg
+67292e071641189d40011588,7,bot4,bot4@gmail.com,passqrst,Passionate about music.,/images/bot4.jpg
+67292e071641189d40011589,8,bot5,bot5@gmail.com,passuvwx,Lifelong learner and educator.,/images/bot5.jpg
+67292e071641189d4001158a,9,bot6,bot6@gmail.com,passyz12,Art lover and curator.,/images/bot6.jpg
+67292e071641189d4001158b,10,bot7,bot7@gmail.com,pass3456,Wizarding world enthusiast.,/images/bot7.jpg
